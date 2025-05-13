@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Unity_Files\\ZombieGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|t:\\unity_files\\zombiegame\\assets\\scripts c#\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts c#\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|t:\\unity_files\\zombiegame\\assets\\scripts c#\\spawingaliens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts c#\\spawingaliens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|t:\\unity_files\\zombiegame\\assets\\scripts c#\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts c#\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|t:\\unity_files\\zombiegame\\assets\\scripts c#\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06570B97-0772-0FF0-BE7C-6BD02C18A982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts c#\\zombieai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts C#\\Player.cs",
+              "ToolTip": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts C#\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T22:22:04.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawingAliens.cs",
+              "DocumentMoniker": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\SpawingAliens.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts C#\\SpawingAliens.cs",
+              "ToolTip": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\SpawingAliens.cs",
+              "RelativeToolTip": "Assets\\scripts C#\\SpawingAliens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:56:17.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bullet.cs",
+              "DocumentMoniker": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts C#\\bullet.cs",
+              "ToolTip": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\bullet.cs",
+              "RelativeToolTip": "Assets\\scripts C#\\bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:53:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZombieAI.cs",
+              "DocumentMoniker": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\ZombieAI.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts C#\\ZombieAI.cs",
+              "ToolTip": "T:\\Unity_Files\\ZombieGame\\Assets\\scripts C#\\ZombieAI.cs",
+              "RelativeToolTip": "Assets\\scripts C#\\ZombieAI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T21:38:59.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
